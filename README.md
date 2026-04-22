@@ -29,6 +29,24 @@
 
 ---
 
+## 🎧 Live Listening Diary
+
+A real-time music activity tracker that displays what I’m currently listening to along with recent tracks — powered by a custom API and dynamic SVG rendering.
+
+---
+
+### 🎵 Now Playing
+
+![Now Playing](https://live-listening-diary.vercel.app/api/public/now-playing.svg/7Nw5XnCLJ9BfTyjXSG1NeIFRq_Ee7UJP)
+
+---
+
+### 🕒 Recently Played
+
+![Recently Played](https://live-listening-diary.vercel.app/api/public/recent.svg/7Nw5XnCLJ9BfTyjXSG1NeIFRq_Ee7UJP)
+
+---
+
 ### 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hkoradiya123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
