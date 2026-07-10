@@ -29,7 +29,6 @@
 
 ---
 
-
 ### 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hkoradiya123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -38,21 +37,26 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<!-- Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Hkoradiya123&show_icons=true&theme=radical)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hkoradiya123&layout=compact&theme=radical)
-
-<!-- Streak -->
----
-
 ### 🟩 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hkoradiya123/Hkoradiya123/output/github-snake-green.svg" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/?username=Hkoradiya123&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=Harsh%27s+GitHub+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hkoradiya123&layout=compact&theme=github_dark&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hkoradiya123&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
