@@ -47,11 +47,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hkoradiya123&layout=compact&theme=radical)
 
 <!-- Streak -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Hkoradiya123&theme=radical)](https://git.io/streak-stats)
+---
 
-<!-- Summary -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hkoradiya123&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hkoradiya123&style=for-the-badge&color=blue" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/Hkoradiya123/Hkoradiya123/output/github-snake-green.svg" />
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hkoradiya123&theme=github_dark" />
+</p>
+
+---
+
+👁️ **Profile Views**
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Hkoradiya123&label=Profile%20Views&color=blueviolet&style=flat-square" />
