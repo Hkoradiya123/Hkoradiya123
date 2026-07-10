@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate heatmap-style snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Hkoradiya123
+          outputs: |
+            dist/github-snake-green.svg?color_snake=#22C55E&color_dots=#020617,#14532D,#166534,#22C55E,#4ADE80
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
