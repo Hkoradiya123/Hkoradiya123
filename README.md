@@ -49,7 +49,7 @@
 <!-- Streak -->
 ---
 
-## 🟩 Contribution Activity
+### 🟩 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hkoradiya123/Hkoradiya123/output/github-snake-green.svg" />
@@ -57,7 +57,7 @@
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hkoradiya123&theme=github_dark" />
